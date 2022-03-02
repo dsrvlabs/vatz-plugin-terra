@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+*.swo
+
+cover.out
+
+vatz-plugin-terra
